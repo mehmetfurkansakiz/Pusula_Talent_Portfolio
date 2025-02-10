@@ -2,6 +2,16 @@
     Pusula Talent Portfolio
 </h1>
 
+Bu proje, Pusula Talent Academy kapsamında, Pusula şirketinin bir girişimi olan Kendine İyi Bak şirketinde gerçekleştirilmiştir. Şu anda aktif olarak kullanılan Kendine İyi Bak uygulamasının içerisinde bulunan ve yapay zeka ile kullanıcılara diyet önerisinde bulunan modülün bir kopyasıdır. 2 aylık bir proje geliştirme sürecinde mentörlerim [Berke Nacak](https://www.linkedin.com/in/berke-nacak) ve [Mehmet Akif Şengül'ün](https://tr.linkedin.com/in/mehmet-akif-%C5%9Feng%C3%BCl-63a59121b) destekleriyle tarafımdan geliştirilmiştir.
+
+Geliştirme sürecinde, Figma üzerinden sağlanan tasarımlar uygulamaya aktarılmıştır. Proje boyunca MVVM mimarisi kullanılmıştır. UIKit tabanlı kodlama yapılmıştır. Yalnızca menü sayfasındaki grafik için SwiftUI ile kodlama gerçekleştirilmiştir.
+
+Not: Projenin kaynak kodları, şirket gizliliği nedeniyle paylaşılmamaktadır.
+
+## Klasör ve Dosya Organizasyonu 📁
+
+<img src="https://github.com/user-attachments/assets/51b59464-73b0-476c-9e01-3225dfd8fadf" width="200" />
+
 ## Storyboard Dosyalarının SS'leri 🏞
 
 | Home | Parent View | Weight Picker | Height Picker |
